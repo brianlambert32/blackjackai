@@ -13,3 +13,9 @@ Press enter to proceed
 
 Choose either treebased AI or Baseline 'T' or 'B'
 
+Continue to input T or B until the cosole indicates that the player stands. Each T or B input is a new node.
+
+Result: Win or Lose
+
+Would you like to play again 'y' or 'n'
+
